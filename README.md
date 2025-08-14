@@ -11,7 +11,7 @@
 <img id="image"src= "https://i.pinimg.com/736x/72/a5/2f/72a52f0318708b97da22eb39f2bead46.jpg"width="800px"><hr><hr>
 <h1>Crafting recipies</h1>
 <p>Crafting table</p>
-<img src="https://www.minecraftcrafting.info/imgs/craft_workbench.png"width="200px"
+<img src="https://www.minecraftcrafting.info/imgs/craft_workbench.png" width="200px"
 <p>4 wood planks</p>
 <hr>
 <hr>
